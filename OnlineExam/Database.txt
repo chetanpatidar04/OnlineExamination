@@ -1,0 +1,8 @@
+Run the following queries.
+
+1.	create table adminlogin (fullname varchar(20),email varchar2(40),mobileno number(12),security varchar(50),answer varchar2(20),username varchar2(15),password varchar2(15));
+2.	insert into adminlogin values('admin0','admin@gmail.com','9874563211','what is bike your number','1234','admin','admin');
+3.	commit;
+4.	create table studentrecord (fullname varchar(20),email varchar2(40),mobileno number(12),username varchar2(15),password varchar2(15));    
+5.	create table question (questionid  number(38),question varchar2(50),optionA varchar2(15),optionB varchar2(15),optionC varchar2(15),optionD varchar2(15),answer varchar2(15)); 
+ 
