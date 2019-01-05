@@ -1,6 +1,7 @@
 Requirements  to run this project
 1.	Java8
 2.	Eclipse (Oxygen)
+3. Tomcat Server 8.0
 4.	Oracle11g
 
 
